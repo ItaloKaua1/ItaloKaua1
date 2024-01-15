@@ -1,6 +1,8 @@
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I love tackling substantial challenges through the use of technology. <br></br>
+
+From crafting backend solutions with Python to creating frontend interfaces with ReactTS, I am enthusiastic about exploring new technologies and applying them to build high-quality solutions. Presently, I am a mid-level front-end developer specializing in web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ItaloKaua1&theme=radical&mode=weekly" />
@@ -60,4 +62,3 @@
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
--->
