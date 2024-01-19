@@ -3,12 +3,12 @@ Hello! My name is Italo Kauã
 
 <p align="center">I love tackling substantial challenges through the use of technology. <br></br>
 
-From crafting backend solutions with Python to creating frontend interfaces with ReactTS, I am enthusiastic about exploring new technologies and applying them to build high-quality solutions. Presently, I am a mid-level front-end developer specializing in web development.</p>&nbsp;
+From crafting backend solutions with Python to creating frontend interfaces with ReactTS, I am a of software engineering graduate and I am enthusiastic about exploring new technologies and applying them to build high-quality solutions. Presently, I am a mid-level front-end developer specializing in web development.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ItaloKaua1&theme=radical&mode=weekly" />
 
- </div>
+</div>
  
  &nbsp;
  &nbsp;
