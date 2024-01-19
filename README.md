@@ -1,5 +1,4 @@
-Hello! My name is Italo Kauã
-==============================
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ítalo Kauã</h1>
 
 <p align="center">I love tackling substantial challenges through the use of technology. <br></br>
 
@@ -7,6 +6,7 @@ From crafting backend solutions with Python to creating frontend interfaces with
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ItaloKaua1&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloKaua1&layout=compact&theme=radical&mode=weekly" />
 
 </div>
  
@@ -51,15 +51,12 @@ From crafting backend solutions with Python to creating frontend interfaces with
 &nbsp;
 
 ## Contacts:
+<img align="left" alt="italokaua" width = 20% src="https://github.com/ItaloKaua1/ItaloKaua1/assets/143740386/1662dbb3-1a19-4faf-873e-0c314f588923">
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<div> 
+
 <a href="https://www.instagram.com/_italokaua/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:contato.italo.kaua.11@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>&nbsp;&nbsp;
- 
-
-  
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
