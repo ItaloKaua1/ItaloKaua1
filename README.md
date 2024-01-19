@@ -6,6 +6,7 @@ From crafting backend solutions with Python to creating frontend interfaces with
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ItaloKaua1&theme=radical&mode=weekly" />
+
  </div>
  
  &nbsp;
@@ -51,9 +52,9 @@ From crafting backend solutions with Python to creating frontend interfaces with
 ## Contacts:
 
 <div> 
-<a href="https://www.instagram.com/rafa.alexandrino](https://www.instagram.com/_italokaua/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="https://www.instagram.com/_italokaua/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href = "italo.kaua.11@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:contato.italo.kaua.11@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 </div>&nbsp;&nbsp;
  
