@@ -1,65 +1,84 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Ítalo Kauã</h1>
+# Ítalo Kauã
 
-<p align="center">I love tackling substantial challenges through the use of technology. <br></br>
+### Software Engineer | Backend & Full Stack
 
-From crafting backend solutions with Python to creating frontend interfaces with ReactTS, I am a of software engineering graduate and I am enthusiastic about exploring new technologies and applying them to build high-quality solutions. Presently, I am a mid-level front-end developer specializing in web development.</p>&nbsp;
+Software Engineering graduate from the Federal University of Ceará (UFC), with professional experience building backend and full-stack applications for SaaS and digital health platforms.
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ItaloKaua1&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItaloKaua1&layout=compact&theme=radical&mode=weekly" />
+My main backend experience includes **Java, Spring Boot, Node.js, TypeScript, PostgreSQL and Supabase**, with additional experience in React, Vue.js, Python and cloud infrastructure.
 
-</div>
- 
- &nbsp;
- &nbsp;
+I enjoy working across the software development lifecycle, from API and database design to authentication, authorization, integrations, testing and deployment.
 
+Currently focused on growing as a **Backend / Full Stack Software Engineer**, with particular interest in Java/Spring Boot, Node.js/TypeScript, cloud computing and scalable systems.
 
+---
 
-## My Skills
+## 🚀 Main Stack
 
-#### Main Stack:
+- **Backend:** Java, Spring Boot, Node.js, TypeScript, Python
+- **Databases:** PostgreSQL, SQL, MongoDB
+- **Frontend:** React, Vue.js, Next.js
+- **Cloud & DevOps:** Google Cloud, Docker, GitHub Actions, Cloudflare, Nginx
+- **Security:** OAuth, RLS, Authentication & Authorization
+- **Testing:** JUnit, Mockito
+- **AI:** RAG, LLMs, Ollama, Pandas
 
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Vue.JS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp; <br />
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+## 🛠️ Tools
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+- Git & GitHub
+- Git Flow
+- Docker
+- Linux
+- CI/CD
 
-#### Secondary Stack:
+---
 
-![Tailwind_CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E)&nbsp;
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+## 💼 Professional Experience
 
-#### Studying in this moment:
+### Boxys
+**Full Stack Developer**
 
-![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
+SaaS platform for digital marketing campaign automation.
 
-#### Databases:
+Worked primarily with TypeScript-based applications, backend development, PostgreSQL/Supabase, authentication and authorization, API integrations, cloud infrastructure and frontend development.
 
-![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+### PET Saúde Digital
+**Backend Developer**
 
-#### Workstation Tools:
+Backend development using Java and Spring Boot, REST APIs, PostgreSQL, authentication, authorization, auditing and automated tests with JUnit and Mockito.
 
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+---
 
-&nbsp;
-&nbsp;
+## 📌 Featured Projects
 
-## Contacts:
-<img align="left" alt="italokaua" width = 20% src="https://github.com/ItaloKaua1/ItaloKaua1/assets/143740386/1662dbb3-1a19-4faf-873e-0c314f588923">
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+### BPMN-Ext-Bot
 
+Conversational assistant based on Retrieval-Augmented Generation (RAG) for creating and reusing BPMN extensions.
 
-<a href="https://www.instagram.com/_italokaua/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href = "mailto:contato.italo.kaua.11@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/italokaua1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
-</div>&nbsp;&nbsp;
+**Technologies:** Python · RAG · LLMs · Ollama · Pandas
+
+### Boxys
+
+SaaS platform for digital marketing campaign automation.
+
+**Technologies:** TypeScript · React · Vue.js · PostgreSQL · Supabase · Docker · Google Cloud
+
+### Maresia
+
+Hospital discharge management system integrating hospital records, primary care and municipal regulation.
+
+**Focus:** Backend · Security · Auditing · Business Rules
+
+---
+
+## 🎓 Education
+
+**B.Sc. in Software Engineering**  
+Federal University of Ceará (UFC) — 2026
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/italokaua1](https://linkedin.com/in/italokaua1)
+- Portfolio: [italokaua-portfolio.vercel.app](https://italokaua-portfolio.vercel.app/)
+- Email: italo.kaua.11@gmail.com
